@@ -72,14 +72,12 @@ main > a{
 }
 
 
-
 .card img{
-   
-    height: 254px;
+    width: 254px;
 }
 
-.card a{
-    width: 200px;
+.cardbtn{
+    width: 254px;
     height: 56px;
     background-color: black;
     color: white;
