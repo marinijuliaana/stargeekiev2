@@ -55,7 +55,7 @@ form > input {
 form > input:hover{
     background-color: #B8B8B8;
 }
-form > a{
+form > button{
     background-color: #A15A5A;
     margin-top: 20px;
     font-size: 2rem;
